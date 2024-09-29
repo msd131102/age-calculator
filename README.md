@@ -12,6 +12,8 @@ Validates input for future dates and handles leap years correctly.
 
 Demo : https://msd131102.github.io/age-calculator/
 
+~~ CHECK ~~~~~~~~~~~~~~~~
+
 Link to the live site:
 
 Usage
