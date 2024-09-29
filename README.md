@@ -1,7 +1,6 @@
 Age Calculator Website
 Overview
 The Age Calculator website allows users to calculate their age in years, months, days, and even seconds based on their date of birth. It's a simple, user-friendly tool designed to provide quick and accurate age calculations.
-
 Features
 Input date of birth and get age in years, months, days
 Easy-to-use and responsive user interface.
